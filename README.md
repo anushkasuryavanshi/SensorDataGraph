@@ -31,24 +31,8 @@ Build an Android app that:
 
 
 
-##  Input File Format
 
-- File: `sensor_data.txt`
-- Path: Internal Storage (`/data/data/<package>/files/`)
-- Format per line:
-  ```
-  <timestamp>,<sensor_id>,<value>
-  e.g. 1624550000,sensorA,34.5
-  ```
-
-- Example:
-  ```txt
-  1624550000,sensorA,34.5
-  1624550002,sensorB,22.1
-  1624550003,sensorA,34.8
-  1624550005,sensorC,12.5
-  ```
-
+  
 
 ## Functional Requirements
 
